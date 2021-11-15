@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application_xml</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="number_1">1234</string>
+    <string name="number_2">3333</string>
+    <string name="number_3">4567</string>
+    <string name="number_1">1234</string>
+    <string name="number_2">3333</string>
+    <string name="number_3">4567</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="ьгде">*</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+</resources>
